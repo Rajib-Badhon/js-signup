@@ -1,0 +1,145 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wrapper{
+	/*border: 2px solid red;*/
+}
+#sign_up{
+	/*border: 2px solid black;*/
+	/*background-color: #3C549A;*/
+}
+.heading_text{
+	margin-top: 15px;
+	bottom: 10px;
+	/*border: 2px solid yellow;*/
+	background-color: #87C540;
+}
+.heading_text h2{
+	padding: 10px;
+	font-weight: bold;
+	font-size: 24px;
+	font-style: italic;
+	font-family: verdana;
+	text-align: center;
+	color: black;
+}
+.alert{
+	/*border: 2px solid green;*/
+	background-color: #344B8F;
+}
+#ui_name{
+	/*display: inline-block;*/
+	border: 2px solid black;
+	padding: 10px;
+}
+#ui_name li{
+	display: inline-block;
+	border: 2px solid #8E825E;
+	margin: 10px;
+	padding: 10px;
+	color: black;
+}
+input{
+	width: 250px;
+	/*margin: 5px;*/
+	padding: 5px;
+}
+.match{
+	/*padding: 15px;*/
+	border: 2px solid black;
+	background-color: coral;
+}
+.match li{
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	border: 2px solid black;
+}
+.gender{
+	border: 2px solid black;
+	margin-top: 10px;
+	background-color: #B83583;
+}
+#mtch{
+	color: red;
+	font-size: 18px;
+	font-style: verdana;
+	text-align: center;
+}
+#smsemail{
+	text-align: center;
+	color: red;
+	font-size: 18px;
+}
+.gen_tt p{
+	padding: 10px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	font-style: italic;
+	color: black;
+}
+#male,#fmale{
+	text-align: center;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 10px;
+	width: 70px;
+	height: 50px;
+	display: inline-block;
+	width: 80px;
+	height: 60px;
+	background-color: #87C540;
+	border: 2px solid black;
+	display: inline-block;
+}
+#box{
+	width: 150px;
+	height: 100px;
+	border: 2px solid black;
+	padding: 20px;
+	background-color: #FFE793;
+}
+#box p{
+	margin-top: 40%;
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+}
+.click{
+	margin-top: 20px;
+	padding: 5px;
+}
+.drop{
+	margin-bottom: 20px;
+	/*background-color: grey;*/
+}
+.accept{
+	background-color: #AFA05A;
+	margin-top: 20px;
+	border: 2px solid black;
+	padding: 10px;
+}
+.sub{
+	text-align: center;
+	margin: 10px;
+}
+#btn{
+	border: 3px solid black;
+	left:20px;
+	width: 250px;
+	background-color: lightgreen;
+}
+.click{
+	color: black;
+	border: 2px solid yellow;
+	margin-left: 15px;
+}
+#ok{
+	background-color: #87C540;
+	margin-top: 5px;
+	border: 2px solid black;
+	font-weight: bold;
+	font-size: 20px;
+}
